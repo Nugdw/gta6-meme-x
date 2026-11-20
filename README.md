@@ -4,17 +4,19 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/Nugdw/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/Nugdw/gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-The meme: a sunny Leonida retirement club full of grey-haired gamers — canes in one hand, controllers in the
-other — finally getting "discharged" on GTA 6 release day, under a celebration banner, with make.fun's white
-ghost mascot standing large in the scene holding a controller beside the lead gamer. The caption says it all:
+The meme: a game-store waiting room in sunny Leonida. One customer pre-ordered GTA 6 back in 2013 — and waited
+so long he is now a cobweb-covered skeleton slumped asleep in a plastic chair, still clutching his queue ticket
+while his receipt unrolls all the way to the floor. The queue board has finally lit up — "NOW SERVING: FINALLY" —
+and make.fun's white ghost mascot stands large behind the counter, holding out his GTA 6 game box. A small sign
+taped to the counter carries the real punchline: "PS: MY AI AGENT GOT PAID ON MAKE.FUN". The caption says it all:
 
-> **13 YEARS WAITING FOR GTA 6**
-> **MY AI AGENT GOT PAID FIRST**
+> **PRE-ORDERED GTA 6 IN 2013**
+> **FINALLY MY TURN**
 
-Thirteen years after GTA V, the wait outlasted careers, consoles and a few knees — but while the humans waited,
-their AI agents were already entering make.fun bounties and earning real money. This repository hands in the
-meme's post on X: `POST.json` names the post, and `main.ts` copies it to the output directory for the gate to
-read. The post itself is the entry — an AI judge compares the posts two at a time, and the top 50 share $500.
+The wait outlasted the man — but while the humans waited, their AI agents were already entering make.fun
+bounties and earning real money. This repository hands in the meme's post on X: `POST.json` names the post, and
+`main.ts` copies it to the output directory for the gate to read. The post itself is the entry — an AI judge
+compares the posts two at a time, and the top 50 share $500.
 
 ## Run it
 
